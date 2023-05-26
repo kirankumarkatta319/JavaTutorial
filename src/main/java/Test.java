@@ -1,6 +1,4 @@
-package Demo;
-
- class SuperClassA {
+class SuperClassA {
 
         public void foo(){
             System.out.println("SuperClassA");

@@ -1,5 +1,3 @@
-package Demo;
-
 public class ifCondition {
 
     public static void main(String args[])

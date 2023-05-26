@@ -1,5 +1,3 @@
-package Demo;
-
 class A
 {
     public void sample()

@@ -1,5 +1,3 @@
-package Demo;
-
 public class methodoverloading {
 
     public void method1(int i)

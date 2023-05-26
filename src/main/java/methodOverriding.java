@@ -1,5 +1,3 @@
-package Demo;
-
 class methodOverriding {
 
     public void method2()

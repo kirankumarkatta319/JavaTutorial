@@ -1,5 +1,3 @@
-package Demo;
-
 public class switchdemo {
 
     public static void main(String args[]) {
